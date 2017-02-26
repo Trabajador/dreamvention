@@ -1,0 +1,39 @@
+---------- Date: 2017-02-26 10:12:48 ~ IP : 178.165.10.40 ----------
+REQUEST URI : /index.php?route=account/login
+MOD DETAILS:
+   modFile   : /home/dev4/public_html/vqmod/xml/a_vqmod_d_social_login.xml
+   id        : d_social_login
+   version   : 2.x
+   vqmver    : 2.5.0
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [admin/model/sale/customer.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-02-26 10:13:27 ~ IP : 178.165.10.40 ----------
+REQUEST URI : /admin/index.php?route=extension/module&token=48rhUvn7u9uERZ3re9AS9XKOnWgf3QhU
+MOD DETAILS:
+   modFile   : /home/dev4/public_html/vqmod/xml/a_vqmod_d_social_login.xml
+   id        : d_social_login
+   version   : 2.x
+   vqmver    : 2.5.0
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [admin/model/sale/customer.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-02-26 10:22:29 ~ IP : 178.165.10.40 ----------
+REQUEST URI : /admin/index.php?route=extension/module&token=DEsmjGVPDBm7lIypetKEmchqXy0tFJ6m
+MOD DETAILS:
+   modFile   : /home/dev4/public_html/vqmod/xml/a_vqmod_d_social_login.xml
+   id        : d_social_login
+   version   : 2.x
+   vqmver    : 2.5.0
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [admin/model/sale/customer.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
